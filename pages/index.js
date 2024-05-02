@@ -11,7 +11,7 @@ export default function Home({ repositories }) {
   return (
     <ContainerBlock
       title="Portfolio Redwan Hramch"
-      description="Welkom bij mijn portfolio"
+      description="Welcome to my portfolio"
     >
       <Hero />
       <FavouriteProjects />

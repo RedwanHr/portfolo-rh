@@ -11,12 +11,7 @@ export default function AboutMe() {
       </div>
       <div className="bg-[#F1F1F1] -mt-10 dark:bg-gray-900">
         <div className="text-container max-w-6xl mx-auto pt-20">
-          <p
-            className="leading-loose text-2xl md:text-4xl font-semibold  mx-4"
-            style={{ lineHeight: "3rem" }}
-          >
-             Currently working on
-          </p>
+
         </div>
       </div>
       <div className="bg-[#F1F1F1] dark:bg-gray-900 px-4">
@@ -36,8 +31,7 @@ export default function AboutMe() {
               <p className="text-lg text-gray-500 mt-4 dark:text-gray-300">
                 I'm looking for a job currently. If you see me as a good fit, check my CV and I'd love to work for you.
                 <a
-                    href={userData.resumeUrl}
-                    target="__blank"
+                    href="CV_Redwan-Hramch.pdf" download="CV-Redwan-Hramch.pdf"
                     className="text-gray-800 border-b-2 border-gray-800 dark:border-gray-300 font-bold dark:text-gray-300 inline-block mt-2"
                 >
                   <button className="bg-blue-900 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-2">

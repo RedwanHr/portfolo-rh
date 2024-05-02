@@ -145,7 +145,7 @@ export default function Navbar() {
           {/*  </svg>*/}
           {/*</a>*/}
           <a
-            href={userData.socialLinks.twitter}
+            href={userData.socialLinks.twitter} target="_blank"
             className="text-base font-normal text-gray-600 dark:text-gray-300"
           >
             <svg
@@ -160,7 +160,7 @@ export default function Navbar() {
             </svg>
           </a>
           <a
-            href={userData.socialLinks.linkedin}
+            href={userData.socialLinks.linkedin} target="_blank"
             className="text-base font-normal text-gray-600 dark:text-gray-300"
           >
             <svg

@@ -11,12 +11,12 @@ const userData = {
       title: "Project: Webdesign Advanced",
       link: "https://power-up-fitness.netlify.app",
       imgUrl: "/project1.png",
-      description: "For the project that was givin in my first year at Thomas More for Webdesign Advanced, me and my colleague designed a website for a lifestyle studio named 'Power Up Fitness'. Normally this project was meant to made by 3 persons but 1 colleague decided to quit his traject. This meant that we needed to work harder to achieve a food result. Me and my colleague splitted the work equally and delivered a very nice website. I learned all new kinds of things such as using Github as workflow, building a responsive website, a navigation menu with JavaScript and much more! I'm very proud of the results and hope to learn much more in the feature. Make sure to click on my project to see it yourself!",
+      description: "For the project that was given in my first year at Thomas More for Webdesign Advanced, me and my colleague designed a website for a lifestyle studio named 'Power Up Fitness'. Normally this project was meant to made by 3 persons but 1 colleague decided to quit his traject. This meant that we needed to work harder to achieve a good result. Me and my colleague splitted the work equally and delivered a very nice website. I learned a lot of new things such as using Github as workflow, building a responsive website, a navigation menu with JavaScript and much more! I'm very proud of the results and I hope to learn much more in the feature. Make sure to click on my project to see it yourself!",
     },
     {
       title: "Webdesign Advanced my part",
       imgUrl: "/my-part1.png",
-      description: "As you can see in the photo section i created subscription plans for costumers to join Power Up. In the down right corner there is a 'To top of page' button that i created. At first it looks simple but this button only shows itself when you are not on top of the page. I created this with Java Script. A big challenge where i learned a lot from. Together with my colleague we created a special navagtion menu that is transparant when you are on top of the page but when you start scrolling this gradually changes to a black background. One of the hardest things in this project i must say.",
+      description: "As you can see in the photo section. I created subscription plans for customers to join Power Up Fitness. In the down right corner there is a 'To top of page' button that I also created. At first it looks simple but this button only shows itself when you are not on top of the page. I created this with Java Script. A big challenge where I learned a lot from. Together with my colleague we created a special navigation menu that is transparent when you are on top of the page but when you start scrolling this gradually changes to a black background. One of the hardest things in this project I must say.",
     },
     {
       title: "Project: Requirements analyses",
@@ -56,8 +56,8 @@ const userData = {
       "I'm a software developer that loves building products and web applications that impact millions of lives",
     description: [
       `My name is Redwan Hramch, and I'm a 24-year-old student at Thomas More Geel. I'm passionately pursuing my goal of becoming a skilled programmer and turning my dream into reality.`,
-      `I like to code in my free time but that's not all, i also like to go gym to push some heavy weights around. Before i started this journey as a programmer i had no experience at all. I worked as a CNC-Operater at ZF Windpower Lommel. I loved my job but my passion to work with computers was bigger, that's why i decided to go back to school again.`,
-      `I hope to learn a lot of new things that i can use later in my job as a programmer. I like to be useful and like to learn a lot of new things and techniques.`,
+      `I like to code in my free time but that's not all, I also like to go gym to push some heavy weights around. Before I started this journey as a programmer I had no experience at all. I worked as a CNC-Operater at ZF Windpower Lommel. I loved my job but my passion to work with computers was bigger, that's why I decided to go back to school again.`,
+      `I hope to learn a lot of new things that I can use later in my job as a programmer. I like to be useful and like to learn a lot of new things and techniques.`,
     ],
     currentProject: "Tailwind Master Kit",
     currentProjectUrl: "https://tailwindmasterkit.com",

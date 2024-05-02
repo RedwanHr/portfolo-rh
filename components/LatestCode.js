@@ -15,7 +15,7 @@ export default function LatestCode({ repositories }) {
           </h1>
 
           <a
-            href={`https://github.com/${userData.githubUsername}`}
+            href={`https://github.com/${userData.githubUsername}`} target="_blank"
             className="mb-20 md:mb-0 px-8 py-4 rounded-md bg-white shadow-lg text-xl font-semibold flex flex-row space-x-4 items-center dark:text-gray-700"
           >
             <svg
@@ -59,7 +59,7 @@ const GithubRepoCard = ({ latestRepo }) => {
         {latestRepo.description}
       </p>
       <a
-        href={latestRepo.clone_url}
+        href={latestRepo.clone_url} target="_blank"
         className="font-semibold group flex flex-row space-x-2 w-full items-center"
       >
         <p>View Repository </p>
