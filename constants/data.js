@@ -108,7 +108,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://thomasmore365-my.sharepoint.com/personal/r0950084_student_thomasmore_be/Documents/CV_Redwan-Hramch.pdf?login_hint=r0950084%40student.thomasmore.be",
+    "https://www.dropbox.com/scl/fi/ottc7wyqoiv98tckdmeoo/cv_redwan-hramch.pdf?rlkey=rrybvn8x91ryvaazb3jmgsjkk&st=jfjtsmav&dl=0",
   socialLinks: {
     instagram: "",
     twitter: "https://twitter.com/RdwanTMG",

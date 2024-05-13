@@ -31,7 +31,7 @@ export default function AboutMe() {
               <p className="text-lg text-gray-500 mt-4 dark:text-gray-300">
                 I'm looking for a job currently. If you see me as a good fit, check my CV and I'd love to work for you.
                 <a
-                    href="../CV_Redwan-Hramch.pdf" download="CV_Redwan-Hramch.pdf"
+                    href="https://www.dropbox.com/scl/fi/ottc7wyqoiv98tckdmeoo/cv_redwan-hramch.pdf?rlkey=rrybvn8x91ryvaazb3jmgsjkk&st=jfjtsmav&dl=1"
                     className="text-gray-800 border-b-2 border-gray-800 dark:border-gray-300 font-bold dark:text-gray-300 inline-block mt-2"
                 >
                   <button className="bg-blue-900 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-2">
