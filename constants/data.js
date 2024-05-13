@@ -58,6 +58,7 @@ const userData = {
       `My name is Redwan Hramch, and I'm a 24-year-old student at Thomas More Geel. I'm passionately pursuing my goal of becoming a skilled programmer and turning my dream into reality.`,
       `I like to code in my free time but that's not all, I also like to go gym to push some heavy weights around. Before I started this journey as a programmer I had no experience at all. I worked as a CNC-Operater at ZF Windpower Lommel. I loved my job but my passion to work with computers was bigger, that's why I decided to go back to school again.`,
       `I hope to learn a lot of new things that I can use later in my job as a programmer. I like to be useful and like to learn a lot of new things and techniques.`,
+        'I embarked on this journey driven by the encouragement of a close friend, a senior developer at Azure who envisioned the possibility of us starting a small company together. The world of IT beckons with its expansive terrain of technology and automation, offering an exciting realm for exploration. Inspired by the prospect of traversing this dynamic landscape, I eagerly embraced the opportunity to delve into its depths and uncover its myriad opportunities.',
     ]
     ,
     currentProject: "Tailwind Master Kit",
