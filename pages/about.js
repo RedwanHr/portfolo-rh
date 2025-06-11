@@ -5,7 +5,7 @@ import userData from "../constants/data";
 
 export default function about() {
   return (
-    <ContainerBlock title="Projects - Redwan Hramch">
+    <ContainerBlock title="About Me - Redwan Hramch">
       <AboutMe />
     </ContainerBlock>
   );

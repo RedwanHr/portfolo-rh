@@ -50,7 +50,7 @@ export default function AboutMe() {
                 I'm actively exploring opportunities in Data & AI. If you think I might be a good fit for your team, feel free to check out my resume. I'd be excited to connect and collaborate.
                 <br />
                 <a 
-  href="https://www.dropbox.com/scl/fi/xqg2rl1x6ljimf4lstl6u/resume_redwan_hramch.pdf?rlkey=7t5keeo59if70250bjt2oqgc7&st=p5ohsi04&dl=0"
+  href="https://www.dropbox.com/scl/fi/xqg2rl1x6ljimf4lstl6u/resume_redwan_hramch.pdf?rlkey=7t5keeo59if70250bjt2oqgc7&st=p5ohsi04&dl=1"
   target="_blank"
   rel="noopener noreferrer"
   className="inline-flex items-center px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 dark:bg-indigo-500 dark:hover:bg-indigo-600 transition-colors duration-200"
@@ -92,7 +92,7 @@ export default function AboutMe() {
                 To see all my experiences, download my Resume.
               </p>
              <a 
-  href="https://www.dropbox.com/scl/fi/ottc7wyqoiv98tckdmeoo/cv_redwan-hramch.pdf?rlkey=rrybvn8x91ryvaazb3jmgsjkk&st=jfjtsmav&dl=1"
+  href="https://www.dropbox.com/scl/fi/xqg2rl1x6ljimf4lstl6u/resume_redwan_hramch.pdf?rlkey=7t5keeo59if70250bjt2oqgc7&st=p5ohsi04&dl=1"
   target="_blank"
   rel="noopener noreferrer"
   className="inline-flex items-center px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 dark:bg-indigo-500 dark:hover:bg-indigo-600 transition-colors duration-200"
