@@ -15,7 +15,7 @@ return (
             <h1 className="font-semibold text-2xl mb-2 text-gray-800 dark:text-white">
                Autonomous Driving AI for Trackmania
             </h1>
-            <h2 className="text-gray-500 dark:text-gray-400">Deep Learning | Computer Vision | PyTorch | 2024</h2>
+            <h2 className="text-gray-500 dark:text-gray-400">Course: Deep Learning | Computer Vision | PyTorch | 2024</h2>
             <h3 className="mt-6 text-xl font-medium text-gray-800 dark:text-white">
                Project Context
             </h3>
@@ -35,28 +35,7 @@ return (
                <li><strong>Augmentation Strategy:</strong> Customized transformations including perspective warp (max_warp=0.05) and lighting adjustments while excluding horizontal flips (non-realistic for driving)</li>
                <li><strong>Real-Time Integration:</strong> Developed prediction script with frame capture (PIL.ImageGrab) and keypress automation (keyboard lib) for seamless gameplay control</li>
             </ul>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8 mb-6">
-               <div className="p-3 rounded-lg bg-gray-100 dark:bg-gray-700">
-                  <img 
-                     src="/trackmania-system-diagram.png" 
-                     alt="System architecture diagram showing data flow from game capture to CNN prediction"
-                     className="rounded border dark:border-gray-600"
-                     />
-                  <p className="text-sm text-gray-500 dark:text-gray-400 mt-2 text-center">
-                     Figure 1: End-to-end system architecture with automated data pipeline
-                  </p>
-               </div>
-               <div className="p-3 rounded-lg bg-gray-100 dark:bg-gray-700">
-                  <img 
-                     src="/training-metrics.png" 
-                     alt="Training graphs showing accuracy and loss curves"
-                     className="rounded border dark:border-gray-600"
-                     />
-                  <p className="text-sm text-gray-500 dark:text-gray-400 mt-2 text-center">
-                     Figure 2: Training metrics showing rapid convergence with One Cycle Policy
-                  </p>
-               </div>
-            </div>
+            
             <h3 className="mt-6 text-xl font-medium text-gray-800 dark:text-white">
                Demonstration
             </h3>
@@ -85,7 +64,7 @@ return (
             <div className="text-gray-600 dark:text-gray-400 my-2 space-y-2">
                <p>• Reduced prediction latency to <strong>12ms</strong> through model optimization, enabling real-time gameplay at 60FPS</p>
                <p>• Solved overfitting (initial 22% val/test gap) through strategic augmentation and layer unfreezing</p>
-               <p>• Demonstrated practical AI integration by completing full game tracks autonomously (see <a href="https://youtu.be/56eldtzQbXg" className="text-blue-500 hover:underline">video demo</a>)</p>
+               <p>• Demonstrated practical AI integration by completing full game tracks autonomously</p>
             </div>
          </div>
          {/* Project 2: NLP Platform */}
@@ -93,7 +72,7 @@ return (
             <h1 className="font-semibold text-2xl mb-2 text-gray-800 dark:text-white">
                Advanced NLP Platform with Multi-Agent Framework
             </h1>
-            <h2 className="text-gray-500 dark:text-gray-400">Natural Language Processing | RAG Systems | CrewAI | 2024</h2>
+            <h2 className="text-gray-500 dark:text-gray-400">Course: Deep Learning | Natural Language Processing | RAG Systems | CrewAI | 2024</h2>
             <h3 className="mt-6 text-xl font-medium text-gray-800 dark:text-white">
                Project Context
             </h3>
@@ -205,7 +184,7 @@ return (
                         AI-Assisted ANPR Monitoring System
                      </h1>
                      <h2 className="text-gray-500 dark:text-gray-400">
-                        IoT & Embedded Systems | AI | React Website | Team Project | 2025
+                        Course: Project 4.0 | IoT & Embedded Systems | AI | React Website | Team Project | 2025
                      </h2>
                      <h3 className="mt-6 text-xl font-medium text-gray-800 dark:text-white">Overview</h3>
                      <p className="text-gray-600 dark:text-gray-400 my-2">

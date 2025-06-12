@@ -15,7 +15,7 @@ export default function Internship() {
             <h1 className="font-semibold text-2xl mb-2 text-gray-800 dark:text-white">
               Sensor To Savior – Water Monitoring System
             </h1>
-            <h2 className="text-gray-500 dark:text-gray-400">EpicData | (24/02 - 23/05) 2025</h2>
+            <h2 className="text-gray-500 dark:text-gray-400">Internship: EpicData | (24/02 - 23/05) 2025</h2>
 
             
 

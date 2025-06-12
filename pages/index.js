@@ -23,7 +23,7 @@ export default function Home({ repositories }) {
   </p>
 
   <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed mb-4">
-    Here's how to navigate my journey:
+    Here's how to navigate through my journey:
   </p>
   <ul className="list-disc list-inside space-y-2 text-gray-600 dark:text-gray-300 mb-6">
     <li>
